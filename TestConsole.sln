@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{F988388D-284F-40A4-B024-1F7B479F7A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLLibrary", "..\SQLLibrary\SQLLibrary\SQLLibrary.csproj", "{5094103D-AD9A-42C4-845F-F9F05A00A2CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F988388D-284F-40A4-B024-1F7B479F7A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F988388D-284F-40A4-B024-1F7B479F7A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F988388D-284F-40A4-B024-1F7B479F7A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F988388D-284F-40A4-B024-1F7B479F7A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5094103D-AD9A-42C4-845F-F9F05A00A2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5094103D-AD9A-42C4-845F-F9F05A00A2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5094103D-AD9A-42C4-845F-F9F05A00A2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5094103D-AD9A-42C4-845F-F9F05A00A2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
